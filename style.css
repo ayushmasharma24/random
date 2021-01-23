@@ -1,0 +1,16 @@
+section{
+    display: block;
+    padding: 40px;
+    margin: 0 auto;
+    text-align: justify;
+    color: cornsilk;
+}
+section div h1{
+    color: rgb(70, 66, 65);
+}
+.div1{    
+    border-radius: 30px;
+    margin-bottom: 30px;
+    padding: 30px 30px;
+    background-color:  rgb(235, 147, 121);
+}
